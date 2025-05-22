@@ -1,6 +1,6 @@
 # This is a simple order management system
 
-## Necessary things to installe before use:
+## Necessary things to install before use:
 ### .net SDK ( minimum v-8.0.100+ )
  - check if installed with cmd: dotnet --version
 ### EF core tools:
