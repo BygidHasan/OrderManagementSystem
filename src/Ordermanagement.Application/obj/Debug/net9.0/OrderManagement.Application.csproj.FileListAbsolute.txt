@@ -1,0 +1,17 @@
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\bin\Debug\net9.0\OrderManagement.Application.deps.json
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\bin\Debug\net9.0\OrderManagement.Application.dll
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\bin\Debug\net9.0\OrderManagement.Application.pdb
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\bin\Debug\net9.0\OrderManagement.Domain.dll
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\bin\Debug\net9.0\OrderManagement.Infrastructure.dll
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\bin\Debug\net9.0\OrderManagement.Domain.pdb
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\bin\Debug\net9.0\OrderManagement.Infrastructure.pdb
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderManagement.Application.csproj.AssemblyReference.cache
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderManagement.Application.AssemblyInfoInputs.cache
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderManagement.Application.AssemblyInfo.cs
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderMan.B2E1D241.Up2Date
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderManagement.Application.dll
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\refint\OrderManagement.Application.dll
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\OrderManagement.Application.pdb
+C:\Users\bygid\OneDrive\Desktop\OrderManagement\OrderManagementSystem\src\OrderManagement.Application\obj\Debug\net9.0\ref\OrderManagement.Application.dll
